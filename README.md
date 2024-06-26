@@ -16,7 +16,7 @@
   
   ### IF 2024
 
-- **SENSE:** Y. Wu, L. Jiao, X. Liu, F. Liu, S. Yang, L. Li.<br />
+- **SENSE:** Chen, Yuzeng, Yuan, Qiangqiang, Tang, Yuqi, Xiao, Yi, He, Jiang, Han, Te, Liu, Zhenqi, Zhang, Liangpei.<br />
   "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues."
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524001738)] 
   [[code](https://github.com/YZCU/SENSE)]
@@ -44,15 +44,33 @@
   "A Channel Adaptive Dual Siamese Network for Hyperspectral Object Tracking."
   [[paper](https://ieeexplore.ieee.org/document/10474033)]
 
+### SSRN 2024
 
-
+- **SSTtrack:** Wang, Hanzheng, Li, Wei, Xia, Xiang-Gen, Du, Qian, Tian, Jing.<br />
+  "SSTtrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions."
+  [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)] 
+  [[code](https://github.com/YZCU/SSTtrack)]
+  
 ### ArXiv 2024
 
 - **SSF-Net:** Wang, Hanzheng, Li, Wei, Xia, Xiang-Gen, Du, Qian, Tian, Jing.<br />
   "SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking."
   [[paper](https://arxiv.org/abs/2403.05852)] 
 
+### TIP 2023
 
+- **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
+  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10128966)] 
+  [[code](https://github.com/hscv/SEE-Net)]
+
+### TGRS 2023
+
+- **Siam-BAG:** Li, W., Hou, Z. F., Zhou, J., Tao, R..<br />
+  "SiamBAG: Band Attention Grouping-Based Siamese Object Tracking Network for Hyperspectral Videos."
+  [[paper](https://ieeexplore.ieee.org/document/10149343)] 
+  [[code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG)]
+  
 ## Benchmark
 
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
