@@ -29,7 +29,10 @@
   [[code](https://github.com/LianYi233/Trans-DAT)]
   
 ### TGRS 2024
-
+- **Hy-Tracker:** M. A. Islam, W. Xing, J. Zhou, Y. Gao, K. K. Paliwa.<br />
+  "Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos."
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10569013)]
+  
 - **MMF-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Z. Zhao, Y. Qian.<br />
   "Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking."
   [[paper](https://ieeexplore.ieee.org/document/10438474)] 
