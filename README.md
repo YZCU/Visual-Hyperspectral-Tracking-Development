@@ -11,6 +11,11 @@ Looking forward to shots like this!
   [[paper](https://ieeexplore.ieee.org/document/10128966)] 
   [[code](https://github.com/hscv/SEE-Net)]
   
+- **AD-SiamRPN:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
+  "AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos." RS 2023.
+  [[paper](https://www.mdpi.com/2072-4292/15/7/1731)] 
+  [[code](https://github.com/yusenwsq/AD-SiamRPN)]
+  
 - **MMF-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Z. Zhao, Y. Qian.<br />
   "Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking." TGRS 2024.
   [[paper](https://ieeexplore.ieee.org/document/10438474)] 
