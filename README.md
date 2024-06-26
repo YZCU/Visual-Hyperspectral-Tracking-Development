@@ -6,6 +6,11 @@ Looking forward to shots like this!
 
 ### :star2: Recommendations :star2:
 
+- **MHT:** Xiong, F., Zhou, J., Qian, Y..<br />
+  "Material Based Object Tracking in Hyperspectral Videos." TIP 2020 (great art).
+  [[paper](https://ieeexplore.ieee.org/document/8960632)] 
+  [[code](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
+  
 - **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
   "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2024.
   [[paper](https://ieeexplore.ieee.org/document/10128966)] 
