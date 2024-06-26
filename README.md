@@ -14,7 +14,7 @@
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
   
-  ### IF 2024
+### IF 2024
 
 - **SENSE:** Chen, Yuzeng, Yuan, Qiangqiang, Tang, Yuqi, Xiao, Yi, He, Jiang, Han, Te, Liu, Zhenqi, Zhang, Liangpei.<br />
   "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues."
