@@ -10,6 +10,16 @@ Looking forward to shots like this!
   "Material Based Object Tracking in Hyperspectral Videos." TIP 2020 (great art).
   [[paper](https://ieeexplore.ieee.org/document/8960632)] 
   [[code](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
+
+- **ViPT:** Zhu, Jiawen, Lai, Simiao, Chen, Xin, Wang, Dong, Lu, Huchuan.<br /> Multi-modal Tracking. CVPR 2023(great art)..
+  "Visual Prompt Multi-Modal Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10205483)] 
+  [[code](https://github.com/laisimiao/ViPT)]
+  
+- **HyperTrack:** master.<br />
+  "HyperTrack：A Unified Framework for Hyperspectral Object Tracking."
+  [[paper](https://)] 
+  [[code](https://github.com/supertyd/HyperTrack)]
   
 - **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
   "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2024.
@@ -45,6 +55,13 @@ Looking forward to shots like this!
   "SSTtrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions." SSRN 2024.
   [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)] 
   [[code](https://github.com/YZCU/SSTtrack)]
+  
+### *** 2024
+
+- **HyperTrack:** master.<br />
+  "HyperTrack：A Unified Framework for Hyperspectral Object Tracking."
+  [[paper](https://)] 
+  [[code](https://github.com/supertyd/HyperTrack)]
   
 ### IF 2024
 
@@ -98,7 +115,14 @@ Looking forward to shots like this!
   "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking."
   [[paper](https://ieeexplore.ieee.org/document/10128966)] 
   [[code](https://github.com/hscv/SEE-Net)]
+  
+### CVPR 2023
 
+- **ViPT:** Zhu, Jiawen, Lai, Simiao, Chen, Xin, Wang, Dong, Lu, Huchuan.<br /> Multi-modal Tracking.
+  "Visual Prompt Multi-Modal Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10205483)] 
+  [[code](https://github.com/laisimiao/ViPT)]
+  
 ### RS 2023
 
 - **AD-SiamRPN:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
