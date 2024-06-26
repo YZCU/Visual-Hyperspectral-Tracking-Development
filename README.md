@@ -14,6 +14,13 @@
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
   
+  ### IF 2024
+
+- **SENSE:** Y. Wu, L. Jiao, X. Liu, F. Liu, S. Yang, L. Li.<br />
+  "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues."
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524001738)] 
+  [[code](https://github.com/YZCU/SENSE)]
+  
 ### TCSVT 2024
 
 - **Trans-DAT:** Y. Wu, L. Jiao, X. Liu, F. Liu, S. Yang, L. Li.<br />
