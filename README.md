@@ -11,8 +11,8 @@ Looking forward to shots like this!
   [[paper](https://ieeexplore.ieee.org/document/8960632)] 
   [[code](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
 
-- **ViPT:** Zhu, Jiawen, Lai, Simiao, Chen, Xin, Wang, Dong, Lu, Huchuan.<br /> Multi-modal Tracking. CVPR 2023(great art)..
-  "Visual Prompt Multi-Modal Tracking."
+- **ViPT:** Zhu, Jiawen, Lai, Simiao, Chen, Xin, Wang, Dong, Lu, Huchuan.<br /> Multi-modal Tracking. 
+  "Visual Prompt Multi-Modal Tracking." CVPR 2023 (great art).
   [[paper](https://ieeexplore.ieee.org/document/10205483)] 
   [[code](https://github.com/laisimiao/ViPT)]
   
