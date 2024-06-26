@@ -52,7 +52,7 @@ Looking forward to shots like this!
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524001738)] 
   [[code](https://github.com/YZCU/SENSE)]
 
-- **SSTtrack:** Wang, Hanzheng, Li, Wei, Xia, Xiang-Gen, Du, Qian, Tian, Jing.<br />
+- **SSTtrack:** Chen, Yuzeng, Yuan, Qiangqiang, Tang, Yuqi, Xiao, Yi, He, Jiang, Han, Te, Liu, Zhenqi, Li, Zhuanfeng, Zhang, Liangpei.<br />
   "SSTtrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions." SSRN 2024.
   [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)] 
   [[code](https://github.com/YZCU/SSTtrack)]
@@ -99,7 +99,7 @@ Looking forward to shots like this!
 
 ### SSRN 2024
 
-- **SSTtrack:** Wang, Hanzheng, Li, Wei, Xia, Xiang-Gen, Du, Qian, Tian, Jing.<br />
+- **SSTtrack:** Chen, Yuzeng, Yuan, Qiangqiang, Tang, Yuqi, Xiao, Yi, He, Jiang, Han, Te, Liu, Zhenqi, Li, Zhuanfeng, Zhang, Liangpei.<br />
   "SSTtrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions."
   [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)] 
   [[code](https://github.com/YZCU/SSTtrack)]
