@@ -18,7 +18,7 @@ Looking forward to shots like this!
   
 - **HyperTrack:** master.<br />
   "HyperTrack：A Unified Framework for Hyperspectral Object Tracking."
-  [[paper](https://)] 
+  [[paper](https://github.com/YZCU/Visual-Hyperspectral-Tracking-Development)] 
   [[code](https://github.com/supertyd/HyperTrack)]
   
 - **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
