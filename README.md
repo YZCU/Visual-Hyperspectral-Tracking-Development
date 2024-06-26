@@ -23,7 +23,7 @@ Looking forward to shots like this!
   [[code](https://github.com/supertyd/HyperTrack)]
   
 - **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
-  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2023.
+  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2023 (great art).
   [[paper](https://ieeexplore.ieee.org/document/10128966)] 
   [[code](https://github.com/hscv/SEE-Net)]
   
