@@ -13,7 +13,14 @@
   "Deep Learning for Visual Tracking: A Comprehensive Survey." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
+  
+### TCSVT 2024
 
+- **Trans-DAT:** Y. Wu, L. Jiao, X. Liu, F. Liu, S. Yang, L. Li.<br />
+  "Domain Adaptation-aware Transformer for Hyperspectral Object Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10491347)] 
+  [[code](https://github.com/LianYi233/Trans-DAT)]
+  
 ### TGRS 2024
 
 - **MMF-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Z. Zhao, Y. Qian.<br />
