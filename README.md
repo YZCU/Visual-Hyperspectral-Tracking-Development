@@ -1,5 +1,6 @@
 # Visual-Hyperspectral-Tracking-Development
-![Looking forward to shots like this!](https://github.com/DavidZhangdw/Visual-Tracking-Development/blob/master/img/Trackers%20.png?raw=true)
+Looking forward to shots like this!
+![](https://github.com/DavidZhangdw/Visual-Tracking-Development/blob/master/img/Trackers%20.png?raw=true)
 
 ## Papers
 
