@@ -94,7 +94,14 @@
   "SiamBAG: Band Attention Grouping-Based Siamese Object Tracking Network for Hyperspectral Videos."
   [[paper](https://ieeexplore.ieee.org/document/10149343)] 
   [[code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG)]
-  
+
+### TIP 2020
+
+- **MHT:** Xiong, F., Zhou, J., Qian, Y..<br />
+  "Material Based Object Tracking in Hyperspectral Videos."
+  [[paper](https://ieeexplore.ieee.org/document/8960632)] 
+  [[code](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
+
 ## Benchmark
 
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
