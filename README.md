@@ -1,5 +1,5 @@
 # Visual-Hyperspectral-Tracking-Development
-# ~updating~
+# updating ~
 Looking forward to shots like this!
 ![](https://github.com/DavidZhangdw/Visual-Tracking-Development/blob/master/img/Trackers%20.png?raw=true)
 
