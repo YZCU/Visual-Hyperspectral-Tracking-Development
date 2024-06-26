@@ -8,12 +8,12 @@ Looking forward to shots like this!
 ### :star2: Recommendations :star2:
 
 - **MHT:** Xiong, F., Zhou, J., Qian, Y..<br />
-  "Material Based Object Tracking in Hyperspectral Videos." TIP 2020 (great art).
+  "Material Based Object Tracking in Hyperspectral Videos." TIP 2020 (Great Art).
   [[paper](https://ieeexplore.ieee.org/document/8960632)] 
   [[code](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
 
 - **ViPT:** Zhu, Jiawen, Lai, Simiao, Chen, Xin, Wang, Dong, Lu, Huchuan.<br /> Multi-modal Tracking. 
-  "Visual Prompt Multi-Modal Tracking." CVPR 2023 (great art).
+  "Visual Prompt Multi-Modal Tracking." CVPR 2023 (Great Art).
   [[paper](https://ieeexplore.ieee.org/document/10205483)] 
   [[code](https://github.com/laisimiao/ViPT)]
   
@@ -23,7 +23,7 @@ Looking forward to shots like this!
   [[code](https://github.com/supertyd/HyperTrack)]
   
 - **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
-  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2023 (great art).
+  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2023 (Great Art).
   [[paper](https://ieeexplore.ieee.org/document/10128966)] 
   [[code](https://github.com/hscv/SEE-Net)]
   
@@ -38,7 +38,7 @@ Looking forward to shots like this!
   [[code](https://github.com/hscv/MMF-Net)]
   
 - **Trans-DAT:** Y. Wu, L. Jiao, X. Liu, F. Liu, S. Yang, L. Li.<br />
-  "Domain Adaptation-aware Transformer for Hyperspectral Object Tracking." TCSVT 2024.
+  "Domain Adaptation-aware Transformer for Hyperspectral Object Tracking." TCSVT 2024 (Great Art).
   [[paper](https://ieeexplore.ieee.org/document/10491347)] 
   [[code](https://github.com/LianYi233/Trans-DAT)]
   
