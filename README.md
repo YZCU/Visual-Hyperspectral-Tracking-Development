@@ -23,11 +23,11 @@ Looking forward to shots like this!
   [[code](https://github.com/supertyd/HyperTrack)]
   
 - **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
-  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2024.
+  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking." TIP 2023.
   [[paper](https://ieeexplore.ieee.org/document/10128966)] 
   [[code](https://github.com/hscv/SEE-Net)]
   
-- **AD-SiamRPN:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
+- **AD-SiamRPN:** Wang, Shiqing, Qian, Kun, Shen, Jianlu, Ma, Hongyu, Chen, Peng.<br />
   "AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos." RS 2023.
   [[paper](https://www.mdpi.com/2072-4292/15/7/1731)] 
   [[code](https://github.com/yusenwsq/AD-SiamRPN)]
@@ -126,7 +126,7 @@ Looking forward to shots like this!
   
 ### RS 2023
 
-- **AD-SiamRPN:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
+- **AD-SiamRPN:** Wang, Shiqing, Qian, Kun, Shen, Jianlu, Ma, Hongyu, Chen, Peng.<br />
   "AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos."
   [[paper](https://www.mdpi.com/2072-4292/15/7/1731)] 
   [[code](https://github.com/yusenwsq/AD-SiamRPN)]
