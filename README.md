@@ -5,14 +5,35 @@
 
 ### :star2: Recommendations :star2:
 
-- **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
-  "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
-  [[paper](https://arxiv.org/abs/2112.02838)] 
+- **SEE-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
+  "Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10128966)] 
+  [[code](https://github.com/hscv/SEE-Net)]
   
-- **DL4VT:** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Senior Member, Hossein Ghanei-Yakhdan, Shohreh Kasaei, Senior Member.<br />
-  "Deep Learning for Visual Tracking: A Comprehensive Survey." ArXiv (2021).
-  [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
-  [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
+- **MMF-Net:** Z. Li, F. Xiong, J. Zhou, J. Lu, Z. Zhao, Y. Qian.<br />
+  "Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10438474)] 
+  [[code](https://github.com/hscv/MMF-Net)]
+  
+- **Trans-DAT:** Y. Wu, L. Jiao, X. Liu, F. Liu, S. Yang, L. Li.<br />
+  "Domain Adaptation-aware Transformer for Hyperspectral Object Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10491347)] 
+  [[code](https://github.com/LianYi233/Trans-DAT)]
+  
+- **Siam-BAG:** Li, W., Hou, Z. F., Zhou, J., Tao, R..<br />
+  "SiamBAG: Band Attention Grouping-Based Siamese Object Tracking Network for Hyperspectral Videos."
+  [[paper](https://ieeexplore.ieee.org/document/10149343)] 
+  [[code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG)]
+  
+- **SENSE:** Chen, Yuzeng, Yuan, Qiangqiang, Tang, Yuqi, Xiao, Yi, He, Jiang, Han, Te, Liu, Zhenqi, Zhang, Liangpei.<br />
+  "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues."
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524001738)] 
+  [[code](https://github.com/YZCU/SENSE)]
+
+- **SSTtrack:** Wang, Hanzheng, Li, Wei, Xia, Xiang-Gen, Du, Qian, Tian, Jing.<br />
+  "SSTtrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions."
+  [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)] 
+  [[code](https://github.com/YZCU/SSTtrack)]
   
 ### IF 2024
 
