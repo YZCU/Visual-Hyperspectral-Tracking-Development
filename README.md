@@ -123,7 +123,14 @@ Looking forward to shots like this!
   "Visual Prompt Multi-Modal Tracking."
   [[paper](https://ieeexplore.ieee.org/document/10205483)] 
   [[code](https://github.com/laisimiao/ViPT)]
-  
+
+### ISPRS 2023
+
+- **MSSOT:** Chen, Lulu, Zhao, Yongqiang, Kong, Seong G..
+  "SFA-guided mosaic transformer for tracking small objects in snapshot spectral imaging."
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271623002551)] 
+  [[code](https://github.com/Chenlulu1993/SMT)]
+
 ### RS 2023
 
 - **AD-SiamRPN:** Wang, Shiqing, Qian, Kun, Shen, Jianlu, Ma, Hongyu, Chen, Peng.<br />
@@ -138,6 +145,13 @@ Looking forward to shots like this!
   [[paper](https://ieeexplore.ieee.org/document/10149343)] 
   [[code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG)]
 
+### ISPRS 2022
+
+- **MSVT:** Chen, Lulu, Zhao, Yongqiang, Chan, Jonathan Cheung-Wai, Kong, Seong G..
+  "Histograms of oriented mosaic gradients for snapshot spectral image description."
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621002860)] 
+  [[code](https://github.com/polwork/HOMG)]
+
 ### TIP 2022
 
 - **SiamHYPER:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
@@ -150,8 +164,15 @@ Looking forward to shots like this!
 - **MHT:** Xiong, F., Zhou, J., Qian, Y..<br />
   "Material Based Object Tracking in Hyperspectral Videos."
   [[paper](https://ieeexplore.ieee.org/document/8960632)] 
-  [[code](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
+  [[project](https://www.hsitracking.com/assets/code/MHT_release_update.rar)]
 
+### TGRS 2019
+
+- **DeepHKCF:** Uzkent, Burak, Rangnekar, Aneesh, Hoffman, Matthew J..<br />
+  "Tracking in Aerial Hyperspectral Videos Using Deep Kernelized Correlation Filters."
+  [[paper](https://ieeexplore.ieee.org/document/8435971)] 
+  [[code](https://github.com/uzkent/HKCF_Tracker)]
+  
 ## Benchmark
 
 * **HOTC2020:** Xiong, F., Zhou, J., Qian, Y..
@@ -162,8 +183,24 @@ Looking forward to shots like this!
 * **HOTC2022:** JUN ZHOU, FENGCHAO XIONG, JOCELYN CHANUSSOT, PEDRAM GHAMISI, YANFEI ZHONG, WOUTER CHARLE.
   [[project](https://www.hsitracking.com/hot2022/)]
 
-  * **HOTC2023:** JUN ZHOU, FENGCHAO XIONG, HIEP QUANG LUONG, MINA ZAHIRI, WOUTER CHARLE, YANFEI ZHONG, PEDRAM GHAMISI, JOCELYN CHANUSSOT.
+* **HOTC2023:** JUN ZHOU, FENGCHAO XIONG, HIEP QUANG LUONG, MINA ZAHIRI, WOUTER CHARLE, YANFEI ZHONG, PEDRAM GHAMISI, JOCELYN CHANUSSOT.
   [[project](https://www.hsitracking.com/hot2023/)]
+  
+* **HOTC2024:** FENGCHAO XIONG, JUN ZHOU, HIEP QUANG LUONG, MINA ZAHIRI, RAFAL MUSZYNSKI, WOUTER CHARLE, YANFEI ZHONG, PEDRAM GHAMISI, JOCELYN CHANUSSOT.
+  [[project](https://www.hsitracking.com/)]
+
+* **MSVT:** Chen, Lulu, Zhao, Yongqiang, Chan, Jonathan Cheung-Wai, Kong, Seong G..
+  "Histograms of oriented mosaic gradients for snapshot spectral image description." ISPRS (2022). 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621002860)] 
+  [[project](https://github.com/polwork/HOMG)]
+
+* **MSSOT:** Chen, Lulu, Zhao, Yongqiang, Kong, Seong G..
+  "SFA-guided mosaic transformer for tracking small objects in snapshot spectral imaging." ISPRS (2023). 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271623002551)] 
+  [[project](https://github.com/Chenlulu1993/SMT)]
+
+
+
 
 
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
