@@ -7,6 +7,10 @@ Looking forward to shots like this!
 
 ### :star2: Recommendations :star2:
 
+- **Review:** Qian, Kun, Shen, Jianlu, Wang, Shiqing, Sun, Wenjun.<br />
+  "Recent advances in object tracking using hyperspectral videos: a survey. " Multimedia Tools and Applications 2023
+  [[paper](https://link.springer.com/article/10.1007/s11042-023-17758-9)]
+  
 - **MHT:** Xiong, F., Zhou, J., Qian, Y..<br />
   "Material Based Object Tracking in Hyperspectral Videos." TIP 2020 (Great Art).
   [[paper](https://ieeexplore.ieee.org/document/8960632)] 
@@ -56,6 +60,12 @@ Looking forward to shots like this!
   "SSTtrack: A Unified Hyperspectral Video Tracking Framework Via Modeling Spectral-Spatial-Temporal Conditions." SSRN 2024.
   [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4860918)] 
   [[code](https://github.com/YZCU/SSTtrack)]
+
+- **DeepHKCF:** Uzkent, Burak, Rangnekar, Aneesh, Hoffman, Matthew J..<br />
+  "Tracking in Aerial Hyperspectral Videos Using Deep Kernelized Correlation Filters. "TGRS 2019
+  [[paper](https://ieeexplore.ieee.org/document/8435971)] 
+  [[code](https://github.com/uzkent/HKCF_Tracker)]
+
   
 ### *** 2024
 
@@ -123,7 +133,13 @@ Looking forward to shots like this!
   "Visual Prompt Multi-Modal Tracking."
   [[paper](https://ieeexplore.ieee.org/document/10205483)] 
   [[code](https://github.com/laisimiao/ViPT)]
+  
+### IJRS 2023
 
+- **DT-DBW:** Zhao, Lin, Ouyang, Er, Tang, Jingjie, Li, Bin, Wu, Jianhui, Zhang, Guoyun, Hu, Wenjing.<br />
+  "Domain transfer and difference-aware band weighting for object tracking in hyperspectral videos."
+  [[paper](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2173034)]
+  
 ### ISPRS 2023
 
 - **MSSOT:** Chen, Lulu, Zhao, Yongqiang, Kong, Seong G..
@@ -131,12 +147,40 @@ Looking forward to shots like this!
   [[paper](https://www.sciencedirect.com/science/article/pii/S0924271623002551)] 
   [[code](https://github.com/Chenlulu1993/SMT)]
 
+### Signal Processing 2023
+
+- **DSP-Net:** Zhao, D., Zhu, X. G., Zhang, Z., Arun, P. V., Cao, J. L., Wang, Q., Zhou, H. X., Jiang, H., Hu, J. L., Qian, K..<br />
+  "Hyperspectral video target tracking based on pixel-wise spectral matching reduction and deep spectral cascading texture features."
+  [[paper](https://www.sciencedirect.com/science/article/pii/S016516842300107X#aep-article-footnote-id1)]
+  
+### GRSL 2023
+
+- **DSP-Net:** Zhu, X. G., Zhang, H. R., Hu, B., Huang, K. P., Arun, P. V., Jia, X. P., Zhao, D., Wang, Q., Zhou, H. X., Yang, S. W..<br />
+  "DSP-Net: A Dynamic Spectral–Spatial Joint Perception Network for Hyperspectral Target Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/10286513)] 
+  
 ### RS 2023
 
 - **AD-SiamRPN:** Wang, Shiqing, Qian, Kun, Shen, Jianlu, Ma, Hongyu, Chen, Peng.<br />
   "AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos."
   [[paper](https://www.mdpi.com/2072-4292/15/7/1731)] 
   [[code](https://github.com/yusenwsq/AD-SiamRPN)]
+  
+- **TMTNet:** Zhao, Chunhui, Liu, Hongjiao, Su, Nan, Xu, Congan, Yan, Yiming, Feng, Shou.<br />
+  "TMTNet: A Transformer-Based Multimodality Information Transfer Network for Hyperspectral Object Tracking."
+  [[paper](https://www.mdpi.com/2072-4292/15/4/1107)]
+
+- **HSI-Tracker:** Zhang, Zhe, Hu, Bin, Wang, Mengyuan, Arun, Pattathal V., Zhao, Dong, Zhu, Xuguang, Hu, Jianling, Li, Huan, Zhou, Huixin, Qian, Kun.<br />
+  "Hyperspectral Video Tracker Based on Spectral Deviation Reduction and a Double Siamese Network."
+  [[paper](https://www.mdpi.com/2072-4292/15/6/1579)]
+
+- **HSI-Tracker:** Zhang, Yifan, Li, Xu, Wei, Baoguo, Li, Lixin, Yue, Shigang.<br />
+  "A Fast Hyperspectral Tracking Method via Channel Selection."
+  [[paper](https://www.mdpi.com/2072-4292/15/6/1557)]
+
+- **SSTFT:** Wang, Ye, Liu, Yuheng, Ma, Mingyang, Mei, Shaohui.<br />
+  "A Spectral-Spatial Transformer Fusion Method for Hyperspectral Video Tracking."
+  [[paper](https://www.mdpi.com/2072-4292/15/7/1735)]
 
 ### TGRS 2023
 
@@ -157,6 +201,13 @@ Looking forward to shots like this!
 - **SiamHYPER:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
   "SiamHYPER: Learning a Hyperspectral Object Tracker From an RGB-Based Tracker."
   [[paper](https://ieeexplore.ieee.org/abstract/document/9933370)] 
+  [[result](https://github.com/zhenliuzhenqi/HOT)]
+
+### WHISPER 2021
+
+- **SST-Net:** Z. Li, X. Ye, F. Xiong, J. Lu, J. Zhou, Y. Qian.<br />
+  "Spectral-Spatial-Temporal Attention Network for Hyperspectral Tracking."
+  [[paper](https://ieeexplore.ieee.org/document/9484032)] 
   [[result](https://github.com/zhenliuzhenqi/HOT)]
   
 ### TIP 2020
