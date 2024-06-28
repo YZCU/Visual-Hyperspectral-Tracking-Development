@@ -157,7 +157,17 @@ Looking forward to shots like this!
 
 - **DSP-Net:** Zhu, X. G., Zhang, H. R., Hu, B., Huang, K. P., Arun, P. V., Jia, X. P., Zhao, D., Wang, Q., Zhou, H. X., Yang, S. W..<br />
   "DSP-Net: A Dynamic Spectral–Spatial Joint Perception Network for Hyperspectral Target Tracking."
-  [[paper](https://ieeexplore.ieee.org/document/10286513)] 
+  [[paper](https://ieeexplore.ieee.org/document/10286513)]
+
+- **HSI-Tracker:** Islam, Mohammad Aminul, Zhou, Jun, Zhang, Weichuan, Gao, Yongsheng.<br />
+  "Background-Aware Band Selection for Object Tracking in Hyperspectral Videos."
+  [[paper](https://ieeexplore.ieee.org/document/10288536)] 
+
+### NCCA 2023
+
+- **SiamHT:** Tang, Yiming, Huang, Hong, Liu, Yufei, Li, Yuan.<br />
+  "A Siamese network-based tracking framework for hyperspectral video."
+  [[paper](https://link.springer.com/article/10.1007/s00521-022-07712-5)] 
   
 ### RS 2023
 
@@ -189,6 +199,16 @@ Looking forward to shots like this!
   [[paper](https://ieeexplore.ieee.org/document/10149343)] 
   [[code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG)]
 
+- **SiamOHOT:** C. Sun, X. Wang, Z. Liu, Y. Wan, L. Zhang, Y. Zhong.<br />
+  "SiamOHOT: A Lightweight Dual Siamese Network for Onboard Hyperspectral Object Tracking via Joint Spatial-Spectral Knowledge Distillation."
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10225562)] 
+
+### SENSOR 2023
+
+- **SiamPKHT:** Qian, K., Wang, S. Q., Zhang, S. J., Shen, J. L..<br />
+  "SiamPKHT: Hyperspectral Siamese Tracking Based on Pyramid Shuffle Attention and Knowledge Distillation."
+  [[paper](https://www.mdpi.com/1424-8220/23/23/9554)] 
+  
 ### ISPRS 2022
 
 - **MSVT:** Chen, Lulu, Zhao, Yongqiang, Chan, Jonathan Cheung-Wai, Kong, Seong G..
