@@ -154,9 +154,21 @@ Looking forward to shots like this!
 
 ## Benchmark
 
+* **HOTC2020:** Xiong, F., Zhou, J., Qian, Y..
+  "Material Based Object Tracking in Hyperspectral Videos." TIP (2020). 
+  [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
+  [[project](https://www.hsitracking.com/hot2020/)]
+  
+* **HOTC2022:** JUN ZHOU, FENGCHAO XIONG, JOCELYN CHANUSSOT, PEDRAM GHAMISI, YANFEI ZHONG, WOUTER CHARLE.
+  [[project](https://www.hsitracking.com/hot2022/)]
+
+  * **HOTC2023:** JUN ZHOU, FENGCHAO XIONG, HIEP QUANG LUONG, MINA ZAHIRI, WOUTER CHARLE, YANFEI ZHONG, PEDRAM GHAMISI, JOCELYN CHANUSSOT.
+  [[project](https://www.hsitracking.com/hot2023/)]
+
+
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
   "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2018). 
-  [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
+  [[paper](https://ieeexplore.ieee.org/document/8960632)]
   [[project](https://cis.temple.edu/lasot/)]
 
 * **OxUvA long-term dataset+benchmark:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves.<br />
