@@ -228,7 +228,6 @@ Looking forward to shots like this!
 - **SST-Net:** Z. Li, X. Ye, F. Xiong, J. Lu, J. Zhou, Y. Qian.<br />
   "Spectral-Spatial-Temporal Attention Network for Hyperspectral Tracking."
   [[paper](https://ieeexplore.ieee.org/document/9484032)] 
-  [[result](https://github.com/zhenliuzhenqi/HOT)]
   
 ### TIP 2020
 
