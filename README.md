@@ -218,7 +218,7 @@ Looking forward to shots like this!
 
 ### TIP 2022
 
-- **SiamHYPER:** Z. Li, F. Xiong, J. Zhou, J. Lu, Y. Qian.<br />
+- **SiamHYPER:** Z. Liu, X. Wang, Y. Zhong, M. Shu, C. Sun.<br />
   "SiamHYPER: Learning a Hyperspectral Object Tracker From an RGB-Based Tracker."
   [[paper](https://ieeexplore.ieee.org/abstract/document/9933370)] 
   [[result](https://github.com/zhenliuzhenqi/HOT)]
@@ -228,6 +228,11 @@ Looking forward to shots like this!
 - **SST-Net:** Z. Li, X. Ye, F. Xiong, J. Lu, J. Zhou, Y. Qian.<br />
   "Spectral-Spatial-Temporal Attention Network for Hyperspectral Tracking."
   [[paper](https://ieeexplore.ieee.org/document/9484032)] 
+
+- **HA-Net:** Z. Liu, X. Wang, M. Shu, G. Li, C. Sun, Z. Liu, Y. Zhong.<br />
+  "An Anchor-Free Siamese Target Tracking Network for Hyperspectral Video."
+  [[paper](https://ieeexplore.ieee.org/document/9484032)]
+  [[result](https://github.com/zhenliuzhenqi/HOT)]
   
 ### TIP 2020
 
