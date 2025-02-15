@@ -6,6 +6,10 @@ Looking forward to shots like this!
 ## Papers
 
 ### :star2: Recommendations :star2:
+- **Review:** Wang, Yuchao, Li, Xu, Yang, Xinyan, Ge, Fuyuan, Wei, Baoguo, Li, Lixin, Yue, Shigang.<br />
+  "Deep Feature-Based Hyperspectral Object Tracking: An Experimental Survey and Outlook." Remote Sensing 2025
+  [[paper](https://www.mdpi.com/2072-4292/17/4/645/xml#:~:text=In%20this%20survey%2C%20we%20systematically%20classify%20and%20conduct,analysis%20of%2013%20state-of-the-art%20deep%20feature-based%20hyperspectral%20trackers.)]star2
+
 
 - **Review:** Qian, Kun, Shen, Jianlu, Wang, Shiqing, Sun, Wenjun.<br />
   "Recent advances in object tracking using hyperspectral videos: a survey. " Multimedia Tools and Applications 2023
